@@ -1,0 +1,40 @@
+body{
+    background-color:#e6e6fa;
+  }
+  .drum-pad {
+    height: 70px;
+    width: 75px;
+    margin: 8px 5px 2px 10px;
+    float: left;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+    font-size: 36px;
+    font-family: Orbitron;
+  }
+  
+  #display{
+    background-color:white;
+    margin: 80px 0px 80px -50px;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: black;
+     text-align: center;
+     letter-spacing: 2px;
+     font-size: 28px;
+  }
+    
+
+  #drum-machine{
+    
+    font-family: Lucida Console;
+    box-shadow: 10px 10px 5px grey;
+    background-color:#bf94e4;
+    border-style: outset;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 100px;
+    margin-left: 200px;
+    height: 250px;
+    width: 700px;
+  }
